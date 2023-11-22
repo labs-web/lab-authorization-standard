@@ -13,6 +13,7 @@ class Project extends Model
         'nom',
         'description',
     ];
+   
     public function tasks()
     {
         return $this->hasMany(Task::class);

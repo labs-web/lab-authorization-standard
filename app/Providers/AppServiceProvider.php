@@ -4,6 +4,8 @@ namespace App\Providers;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Pagination\Paginator;
+use App\Models\Task;
+use App\Repositories\TaskRepository;
 
 class AppServiceProvider extends ServiceProvider
 {
