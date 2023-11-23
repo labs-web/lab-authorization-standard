@@ -18,6 +18,15 @@ class PermissionSeeder extends Seeder
         Permission::create([
             'name' => 'create-TasksController',
         ]);
+        Permission::create([
+            'name' => 'update-TasksController',
+        ]);
+        Permission::create([
+            'name' => 'store-TasksController',
+        ]);
+        Permission::create([
+            'name' => 'edit-TasksController',
+        ]);
         
     }
 }

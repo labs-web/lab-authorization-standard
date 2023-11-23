@@ -15,13 +15,21 @@ class UserSeeder extends Seeder
      */
     public function run(): void
     {
-        User::create([
+       $user =  User::create([
             'name' => 'Chef de projet',
             'email' => 'project.leader@solicode.co',
             'password' => Hash::make('leader'),
             'created_at' => Carbon::now(),
             'updated_at' => Carbon::now(),
-        ])->assignRole('project-leader')->givePermissionTo('index-TasksController');
+        ])->assignRole('project-leader');
+        $leaderPermissions = [
+            'index-TasksController',
+            'create-TasksController',
+            'update-TasksController',
+            'store-TasksController',
+            'edit-TasksController',
+        ];
+        $user->givePermissionTo($leaderPermissions);
 
         User::create([
             'name' => 'membre',
