@@ -8,7 +8,7 @@ use App\Models\Task;
 use App\Repositories\TaskRepository;
 use App\Http\Requests\TaskRequest;
 
-class TaskController extends AppBaseController
+class TasksController extends AppBaseController
 {
     protected $taskRepository ; 
     public function __construct(TaskRepository $taskRepository){

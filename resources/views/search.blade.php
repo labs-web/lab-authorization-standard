@@ -2,7 +2,7 @@
 <tr>
     <th>{{$task->nom}}</th>
     <td>{{$task->description}}</td>
-    @can('edit-Task')
+    @can('edit-Tasks')
     <td class="d-flex gap-2 justify-content-center">
       <form action="{{ route('edit.task', ['id' => $task->id]) }}" method="GET">
         <button type="submit" class="btn btn-success">

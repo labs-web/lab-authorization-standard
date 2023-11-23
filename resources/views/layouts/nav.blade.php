@@ -30,7 +30,7 @@
                 <li class="nav-item">
                     <a class="nav-link" href="{{route('main')}}">Liste des taches</a>
                 </li>
-                @can('create-Task')
+                @can('create-TasksController')
                 <li class="nav-item">
                     <a class="nav-link" href="{{route('add.task')}}">Ajouté une tache</a>
                 </li>

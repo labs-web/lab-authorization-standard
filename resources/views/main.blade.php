@@ -8,7 +8,7 @@
                <th scope="col">Nom</th> 
                <th scope="col">Description</th> 
                
-    @can('edit-Task')
+    @can('edit-Tasks')
                <th scope="col">Action</th>
     @endcan
            </tr> 
