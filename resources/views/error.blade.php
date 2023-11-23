@@ -174,4 +174,4 @@
   
 </div>
 <h1 class="errorcode">ERROR 403</h1>
-<div class="errortext">This area is forbidden. <a href="{{route('main')}}" >Turn back now!</a></div>
+<div class="errortext">This area is forbidden, Please git back to your project leader for info <a href="{{route('main')}}" >Turn back now!</a></div>
