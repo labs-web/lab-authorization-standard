@@ -15,7 +15,12 @@
 
 - spatie/laravel-permission
 
-#### Commands
+##### Référence 
+
+- [spatie package](https://spatie.be/docs/laravel-permission/v6/introduction)
+- [callAction](https://hotexamples.com/examples/illuminate.routing/Controller/callAction/php-controller-callaction-method-examples.html)
+
+###### Commands
 
 1. Install the Spatie package:
 
