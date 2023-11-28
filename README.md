@@ -3,13 +3,19 @@
 
 ## Travail à faire
 
-- Améliorer l'athourisation de [`lab-authorization-basic`](https://github.com/Jalil-Betroji/lab-authorization-basic.git), en ajoutant un rôle et des permissions à chaque utilisateur
+- Améliorer l'athourisation de [`lab-authorization-basic`](https://github.com/Jalil-Betroji/lab-authorization-basic.git)
 
-## Packages
+### Critères de validation
+
+- Attribution d'un rôle et de permissions à chaque utilisateur.
+- Éviter l'utilisation de Gate ou de policies.
+- Utiliser un seeder pour ajouter les rôles et les permissions
+
+#### Packages
 
 - spatie/laravel-permission
 
-## Commands
+#### Commands
 
 1. Install the Spatie package:
 
