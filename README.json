@@ -20,6 +20,11 @@
             {
                 "Titre":"/docs",
                 "Description":"Documentation"
+            },
+            {
+                "Titre":"/presentation",
+                "Description":"Documentation",
+                "Lien":"https://labs-web.github.io/lab-authorization-standard/presentation.html"
             }
         ]
     },   
