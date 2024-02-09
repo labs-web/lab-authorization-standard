@@ -25,6 +25,11 @@
                 "Titre":"/presentation",
                 "Description":"Documentation",
                 "Lien":"https://labs-web.github.io/lab-authorization-standard/presentation.html"
+            },
+            {
+                "Titre":"/rapport",
+                "Description":"Documentation",
+                "Lien":"https://labs-web.github.io/lab-authorization-standard/rapport.html"
             }
         ]
     },   
