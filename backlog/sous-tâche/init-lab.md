@@ -2,11 +2,12 @@
 
 ## Travail à faire
 
-- Création d'un rapport sans contenu avec les pages et leurs titres
+- Création d'un rapport et présentation sans contenu avec les pages et leurs titres
 
 ## Tâche mère
 
 ## Livrable
-- docs/rapport.md
+- docs/index.md
+- docs/présentation.md
 
 
