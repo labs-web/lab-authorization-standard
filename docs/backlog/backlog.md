@@ -26,7 +26,8 @@ order: 2
   - Conclusion
     - images
     - Conculsion.md
-  - Rapport.md
-  - Presentation.html
+  - index.md
+  - presentation.md
+  - _layouts/présentation.html
 
 <!-- new slide -->
