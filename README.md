@@ -1,12 +1,34 @@
-# lab-authorization
-lab-authorization
+#  
 
-## Livrable 
+- Référence :   
 
-### Rapport
+ 
 
-[Rapport](https://labs-web.github.io/lab-authorization-standard/rapport.html)
+## Backlog 
 
-## Presentataion
+Le backlog est une liste ordonées des tâches 
 
-[Rapport](https://labs-web.github.io/lab-authorization-standard/presentation.html) 
+- **chapitre** 
+- **exposé** 
+- **feature** 
+- **sous-tâche** 
+  - [init-lab.md](./Backlog/sous-tâche/init-lab.md) 
+- **thème** 
+## Livrables 
+
+ 
+
+- /Backlog 
+  - Backlog 
+- /docs 
+  - Documentation 
+- /presentation 
+  - Documentation 
+- /rapport 
+  - Documentation 
+## Références 
+
+ 
+
+- [Autoformation](#) 
+
