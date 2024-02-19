@@ -13,5 +13,5 @@ Creation de backlog des tâches à réalisé
 - Réalisation de back-end
 - Réalisation des unit test
 - Réalisation de front-end
-- Création de rapport
+- Création de rapport 
 - Création de presentation
